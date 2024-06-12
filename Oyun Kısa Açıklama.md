@@ -1,0 +1,1 @@
+Bu oyun karakterin belirli elementlere 10 saniyede 1 kez olacak şekilde dönüşürken platformları bu özelliğini kullanarak geçmeye çalışacak ve bu özellik onun geçebilmesini sağlarken aynı zamanda zamanlama hatası karakterin ölümüyle sonuçlanabileceği için dikkatli bir şekilde düşünmesi gerekecek.
